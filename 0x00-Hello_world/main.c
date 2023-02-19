@@ -1,12 +1,13 @@
-#!/bin/bash
+
+
 #include <stdio.h>
 
 /**
- * main - starter 
+ * main - Entry point
  *
- * return - always zero successful
+ * Return: Always 0 (Success)
  */
-int main (void)
+int main(void)
 {
-	return(0);
+    return (0);
 }
